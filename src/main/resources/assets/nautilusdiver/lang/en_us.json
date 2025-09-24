@@ -9,5 +9,7 @@
   "nautilusdiver.configuration.items": "Item List",
   "nautilusdiver.configuration.logDirtBlock": "Log Dirt Block",
   "nautilusdiver.configuration.magicNumberIntroduction": "Magic Number Text",
-  "nautilusdiver.configuration.magicNumber": "Magic Number"
+  "nautilusdiver.configuration.magicNumber": "Magic Number",
+
+
 }
