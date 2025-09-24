@@ -24,8 +24,5 @@ public class NautilusDiverClient {
 
     @SubscribeEvent
     static void onClientSetup(FMLClientSetupEvent event) {
-        // Some client setup code
-        NautilusDiver.LOGGER.info("HELLO FROM CLIENT SETUP");
-        NautilusDiver.LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
     }
 }
