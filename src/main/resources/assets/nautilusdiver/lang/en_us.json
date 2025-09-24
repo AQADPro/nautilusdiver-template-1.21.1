@@ -1,0 +1,13 @@
+{
+  "itemGroup.nautilusdiver": "Example Mod Tab",
+  "block.nautilusdiver.example_block": "Example Block",
+  "item.nautilusdiver.example_item": "Example Item",
+
+  "nautilusdiver.configuration.title": "Nautilus Diver Configs",
+  "nautilusdiver.configuration.section.nautilusdiver.common.toml": "Nautilus Diver Configs",
+  "nautilusdiver.configuration.section.nautilusdiver.common.toml.title": "Nautilus Diver Configs",
+  "nautilusdiver.configuration.items": "Item List",
+  "nautilusdiver.configuration.logDirtBlock": "Log Dirt Block",
+  "nautilusdiver.configuration.magicNumberIntroduction": "Magic Number Text",
+  "nautilusdiver.configuration.magicNumber": "Magic Number"
+}
