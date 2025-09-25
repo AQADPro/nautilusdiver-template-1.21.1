@@ -19,8 +19,7 @@ public class ModArmorItem extends ArmorItem {
     private static final Map<Holder<ArmorMaterial>, List<MobEffectInstance>> MATERIAL_TO_EFFECT_MAP =
             (new ImmutableMap.Builder<Holder<ArmorMaterial>, List<MobEffectInstance>>())
                     .put(ModArmorMaterials.NAUTILUS_ARMOR_MATERIAL,
-                            List.of(new MobEffectInstance(MobEffects.JUMP, 200, 1, false, false, true),
-                                    new MobEffectInstance(MobEffects.WATER_BREATHING, 200, 0, false, false, true)))
+                            List.of(new MobEffectInstance(MobEffects.WATER_BREATHING, 200, 0, false, false, true)))
                     .build();
 
     public ModArmorItem(Holder<ArmorMaterial> material, Type type, Properties properties) {
